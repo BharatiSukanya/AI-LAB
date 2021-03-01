@@ -1,0 +1,3 @@
+Arad, Zerind, 75
+Zerind, Himachal, 23
+Himachal, Arad, 34
